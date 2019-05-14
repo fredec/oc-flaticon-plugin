@@ -1,0 +1,1 @@
+# oc-flaticon-plugin
